@@ -1,0 +1,19 @@
+{
+  "name": "gol-node-jgf",
+  "version": "0.0.0",
+  "description": "Game of Life in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "conway",
+    "game",
+    "life"
+  ],
+  "author": "John Ferguson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.0.6"
+  }
+}
